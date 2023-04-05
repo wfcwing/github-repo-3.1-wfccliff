@@ -26,6 +26,4 @@ This command records or snapshots the file permanently in the version history.
 Usage: git branch
 This command lists all the local branches in the current repository.
 
-7)git checkout
-Usage: git checkout [branch name]
-This command is used to switch from one branch to another.
+
