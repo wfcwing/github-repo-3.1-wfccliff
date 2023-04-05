@@ -1,5 +1,5 @@
 # github-repo-3.1-wfccliff
-This is the repo for learning to use Github
+
 This file is to show what we have learned for all github commands and their usage for 5 April 2023 class
 
 1)git clone
