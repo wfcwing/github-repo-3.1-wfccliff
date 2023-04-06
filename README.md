@@ -27,3 +27,7 @@ Usage: git branch
 This command lists all the local branches in the current repository.
 
 
+To change the remote to SSH
+"$ git remote set-url origin git@github.com:OWNER/REPOSITORY.git."
+
+
